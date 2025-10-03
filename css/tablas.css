@@ -1,0 +1,13 @@
+/*DOCUMENTO CSS*/
+*{margin: 0px;
+padding: 0px;}
+
+body {background-color: #eebbda;}
+
+h1 {background-color: #f86da5;
+padding: 16px 0px;
+text-align: center;color: beige;}
+
+
+.tablas {width: 50%;
+margin: 24px auto 24px auto;background-color: beige;text-align: center;}
