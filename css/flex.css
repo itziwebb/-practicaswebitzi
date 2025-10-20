@@ -1,0 +1,11 @@
+
+*{ margin: 0px;
+padding: 0px;}
+
+.card {background-color: #a2dfc6; 
+padding: 80px 0px;}
+
+.container {background-color: purple; 
+padding: 16px;}
+
+.items {background-color: orange;}
